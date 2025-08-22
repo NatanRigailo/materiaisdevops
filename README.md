@@ -29,7 +29,6 @@ Ferramenta fundamental para versionamento de código e colaboração.
 
 **Links úteis:**
 - [Pro Git Book](https://git-scm.com/book/en/v2)
-- [Learn Git by Atlassian](https://www.atlassian.com/git)
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - [Git Command Explorer](https://git.gaozih.com/)
 - [Git Immersion](https://gitimmersion.com/index.html)
