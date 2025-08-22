@@ -130,7 +130,7 @@ Ferramentas e práticas para acompanhar sistemas em produção.
 **Links úteis:**
 - [Learn Prometheus](https://prometheus.io/docs/tutorials/getting_started/)
 - [Learn Grafana](https://grafana.com/tutorials/)
-- [Elastic Stack Guide](https://www.elastic.co/guide/index.html)
+- [Elastic Stack Guide](https://www.elastic.co/docs/get-started/)
 
 ---
 
@@ -152,7 +152,7 @@ Escolha um provedor principal e aprenda os fundamentos.
 Fundamentos de Scrum, SDLC e testes automatizados.
 
 **Links úteis:**
-- [What is Scrum?](https://www.atlassian.com/br/agile/scrum)
+- [What is Scrum?](https://www.scrum.org/resources/what-scrum-module)
 - [Software Development Life Cycle (SDLC)](https://www.guru99.com/software-development-life-cycle-tutorial.html)
 - [Automation Testing Guide](https://testguild.com/automation-testing/)
 
