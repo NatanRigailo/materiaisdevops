@@ -31,7 +31,7 @@ Ferramenta fundamental para versionamento de código e colaboração.
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 - [Learn Git by Atlassian](https://www.atlassian.com/git)
 - [Learn Git Branching](https://learngitbranching.js.org/)
-- [Git Command Explorer](https://gitexplorer.com/)
+- [Git Command Explorer](https://git.gaozih.com/)
 - [Git Immersion](https://gitimmersion.com/index.html)
 
 ---
@@ -41,7 +41,7 @@ Aprenda pelo menos uma linguagem para automação e scripts.
 
 **Python**
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [Python Crash Course](https://ehmatthes.github.io/pcc/)
+- [Python Crash Course](https://ehmatthes.github.io/pcc_3e/)
 
 **JavaScript**
 - [The Modern JavaScript Tutorial](https://javascript.info/)
@@ -100,7 +100,7 @@ Uso de Kubernetes e ferramentas relacionadas.
 
 **Links úteis:**
 - [Kubernetes Crash Course (YouTube)](https://www.youtube.com/watch?v=s_o8dwzRlu4)
-- [Kubernetes Learning Path - Microsoft](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/)
+- [Kubernetes Learning Path](https://github.com/techiescamp/kubernetes-learning-path)
 - [cert-manager Docs](https://cert-manager.io/docs/)
 
 ---
@@ -153,9 +153,9 @@ Escolha um provedor principal e aprenda os fundamentos.
 Fundamentos de Scrum, SDLC e testes automatizados.
 
 **Links úteis:**
-- [What is Scrum?](https://www.atlassian.com/agile/scrum)
+- [What is Scrum?](https://www.atlassian.com/br/agile/scrum)
 - [Software Development Life Cycle (SDLC)](https://www.guru99.com/software-development-life-cycle-tutorial.html)
-- [Automation Testing Guide](https://blog.testproject.io/2020/03/26/automation-testing-for-beginners-ultimate-guide/)
+- [Automation Testing Guide](https://testguild.com/automation-testing/)
 
 ---
 
@@ -167,6 +167,8 @@ Integração de segurança em pipelines DevOps.
 - [Trivy Documentation](https://trivy.dev/latest/)
 - [Falco Runtime Security](https://falco.org/docs/)
 
+
+
 ---
 
 ## Recursos Adicionais
@@ -177,6 +179,7 @@ Integração de segurança em pipelines DevOps.
 - [Kubernetes](https://kubernetes.io/)
 - [Prometheus](https://prometheus.io/)
 - [Grafana](https://grafana.com/)
+- [N8n](https://n8n.io/)
 
 **Livros**
 - 
